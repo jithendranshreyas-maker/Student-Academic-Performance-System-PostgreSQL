@@ -1,0 +1,16 @@
+
+streamlit==1.64.0
+pandas==2.3.3
+numpy==2.0.2
+scikit-learn==1.6.1
+matplotlib==3.11.2
+seaborn==0.13.2
+shap==0.52.0
+xgboost==3.4.1
+joblib==1.5.3
+plotly==7.1.0
+scipy==1.18.1
+psycopg2-binary
+python-dotenv
+bcrypt
+
